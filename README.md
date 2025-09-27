@@ -1,6 +1,6 @@
 # IELTS Institute - React Home Page
 
-![IELTS Home Page](ielts-homepage.png)
+![IELTS Home Page](src/ielts-homepage.png)
 
 ## Overview
 This is a **modern, responsive Home Page for a fictional IELTS Institute**, built using **React.js** and **React-Bootstrap**. The design focuses on **user experience and modern UI**, making it visually appealing and interactive.
