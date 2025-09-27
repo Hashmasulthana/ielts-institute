@@ -1,0 +1,45 @@
+body {
+  padding-top: 80px; 
+}
+
+.custom-navbar {
+  background-color: #0a1f44; 
+  padding: 0.8rem 1.5rem;
+  box-shadow: 0px 4px 12px rgba(0,0,0,0.2);
+  z-index: 1030; 
+}
+
+
+
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  height: 45px;
+  margin-right: 10px;
+}
+
+.logo-text {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.nav-links .nav-link {
+  color: #ffffff !important;
+  margin: 0 12px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-links .nav-link:hover {
+  color: #ff7f50 !important; 
+}
+
+.toggle-btn {
+  background-color: white;
+  border: none;
+}
